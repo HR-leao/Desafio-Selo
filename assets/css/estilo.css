@@ -1,0 +1,22 @@
+.teste {
+    width: 190px;
+    height: 44px;
+    margin-top:28px;
+    margin-left: -58px;
+    transform: rotate(-48deg);
+    text-decoration: none;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 14px;
+    font-family: Arial;
+    color: #fff;
+    background-color: #3d7dc5;
+    border: 2px solid #68a3dc;
+    outline: 2px solid #3d7dc5;
+    box-shadow: 0px 0px 7px 4px #bec1c4;
+    text-shadow: 0px 5px 4px #356aa7;
+}
+
